@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 500,
+      "Comment": "1Kg",
+      "date": "2022-12-07T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 200,
+      "Comment": "2 kg",
+      "date": "2022-12-07T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "freshness": "Secound Hand",
+      "price": 150,
+      "Comment": "old product",
+      "date": "2022-12-19T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "coriander",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 20,
+      "Comment": "veg",
+      "date": "2022-12-07T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "vanila",
+      "category": "Ice-cream",
+      "freshness": "Refurnished",
+      "price": 80,
+      "Comment": "icecold",
+      "date": "2022-12-01T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "chocolate",
+      "category": "Ice-cream",
+      "freshness": "Brand New",
+      "price": 100,
+      "Comment": "dark chocolate",
+      "date": "2022-12-08T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
